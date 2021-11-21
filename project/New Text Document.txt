@@ -1,3 +1,5 @@
 name : nisarg
-emnail: shahnisargweb@gmail.com
+email: shahnisargweb@gmail.com
+
+
 password :12345678
